@@ -1,0 +1,41 @@
+.back{
+    background-color: rgb(29, 48, 50);
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px;
+    font-family: Arial,sans-serif;
+
+}
+.footer-container {
+    height: 400px;
+    background-color: rgb(40, 54, 69);
+    color: white;
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr 3fr;
+    padding: 10px;
+}
+.footer-facebook a{
+    text-decoration: none;
+    color:white;
+}
+.footer-twitter a{
+    text-decoration: none;
+    color:white;
+}
+.footer-instagram a{
+    text-decoration: none;
+    color:white;
+}
+.footer-title{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom:10px;
+}
+.footer-title~div{
+    margin-bottom: 12px;
+}
+.back:hover{
+    cursor: pointer;
+    background-color: rgb(7, 56, 99);
+}

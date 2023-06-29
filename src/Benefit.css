@@ -1,0 +1,23 @@
+
+.benefit{
+    font-size:13px;
+    font-family: Arial;
+    display: flex;
+    background-color: white;
+    margin: 10px 10px;
+    max-width: 100%;
+}
+
+.benefit p{
+    font-size: 20px;
+    margin: 10px 10px;
+    font-weight: light;
+    font-family: Arial;
+}
+.para{
+    width: 70%;
+}
+
+.gap{
+    margin-top: 20px;
+}

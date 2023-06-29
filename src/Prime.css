@@ -1,0 +1,61 @@
+.prime_container{
+    background-color: white;
+}
+.prime_details_1{
+    display: flex;
+}
+.prime_details_1 img {
+    width: 50%;
+    margin-left:10px;
+}
+.prime_image{
+    width: 50%;
+    margin-right: 10px;
+    background-color:rgb(20,110,180);
+}
+.prime_image h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 10px;
+}
+.prime_image button{
+    background-color:#db9224;
+    width: 200px;
+    border-color: rgb(201, 139, 31);
+    height: 50px;
+    border-radius: 10px;
+    font-size: 19.5px;
+    font-family: Arial;
+    padding: 0 10px 0 11px;
+    margin: 10px 10px;
+
+}
+.prime_image button:hover{
+    background-color:#fe9b07;
+    cursor : pointer;
+}
+.prime_image h3{
+    position: absolute;
+    color: white;
+    font-family: Arial;
+    margin:10px ;
+}
+.prime_image p{
+    font-size: 10px;
+    font-family: Arial;
+    margin-top: 200px;
+}
+.primeDetailPage-content-benefit{
+    padding-bottom: 0;
+    
+    margin-top: 100px;
+}
+.primeDetailPage-content-benefit h1{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 35px;
+}
+.gap{
+    margin-top: 150px;
+    background-color: white;
+}
